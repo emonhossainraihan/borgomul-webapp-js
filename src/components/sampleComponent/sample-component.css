@@ -1,0 +1,21 @@
+.sample-component-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+.sample-component {
+    padding: 10px;
+    width: 300px;
+    height: 200px;
+    background-color: #1EA7FD;
+    color: white;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
