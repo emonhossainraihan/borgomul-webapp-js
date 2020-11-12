@@ -1,3 +1,4 @@
+import React from 'react';
 import logo from './logo-borgomul-triangle.svg';
 import './App.css';
 
